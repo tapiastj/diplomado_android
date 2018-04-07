@@ -5,4 +5,17 @@
     <string name="numero_dos">Numero Dos</string>
     <string name="calcular">Calcular</string>
     <string name="limpiar">Limpiar</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <array name="operaciones">
+        <item>@string/sumar</item>
+        <item>@string/restar</item>
+        <item>@string/multiplicar</item>
+        <item>@string/dividir</item>
+    </array>
+    <string name="error_uno">Digite primer numero</string>
+    <string name="error_dos">Digite segundo numero</string>
+    <string name="error_tres">No se puede dividir entre 0</string>
 </resources>
